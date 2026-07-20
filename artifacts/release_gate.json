@@ -1,0 +1,27 @@
+{
+  "evaluated_at_utc": "2026-07-20T20:54:40.879953+00:00",
+  "status": "approved",
+  "checks": {
+    "intent_accuracy": {
+      "value": 0.9848484848484849,
+      "threshold": 0.8,
+      "passed": true
+    },
+    "intent_macro_f1": {
+      "value": 0.985037006004748,
+      "threshold": 0.78,
+      "passed": true
+    },
+    "retrieval_hit_at_3": {
+      "value": 1.0,
+      "threshold": 0.85,
+      "passed": true
+    },
+    "critical_validation_failures": {
+      "value": 0,
+      "threshold": 0,
+      "passed": true
+    }
+  },
+  "decision_owner": "Campus Chat Release Owner"
+}

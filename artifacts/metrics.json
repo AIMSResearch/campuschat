@@ -1,0 +1,71 @@
+{
+  "intent_accuracy": 0.9848484848484849,
+  "intent_macro_f1": 0.985037006004748,
+  "retrieval_hit_at_1": 0.5833333333333334,
+  "retrieval_hit_at_3": 1.0,
+  "approved_document_count": 20,
+  "quarantined_document_count": 3,
+  "classification_report": {
+    "advising": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "campus_services": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "degree_requirements": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 17.0
+    },
+    "emergency": {
+      "precision": 0.9444444444444444,
+      "recall": 1.0,
+      "f1-score": 0.9714285714285714,
+      "support": 17.0
+    },
+    "financial_aid": {
+      "precision": 1.0,
+      "recall": 0.9411764705882353,
+      "f1-score": 0.9696969696969697,
+      "support": 17.0
+    },
+    "greeting": {
+      "precision": 1.0,
+      "recall": 0.9375,
+      "f1-score": 0.967741935483871,
+      "support": 16.0
+    },
+    "registration": {
+      "precision": 0.9444444444444444,
+      "recall": 1.0,
+      "f1-score": 0.9714285714285714,
+      "support": 17.0
+    },
+    "technical_support": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 16.0
+    },
+    "accuracy": 0.9848484848484849,
+    "macro avg": {
+      "precision": 0.9861111111111112,
+      "recall": 0.9848345588235294,
+      "f1-score": 0.985037006004748,
+      "support": 132.0
+    },
+    "weighted avg": {
+      "precision": 0.9856902356902357,
+      "recall": 0.9848484848484849,
+      "f1-score": 0.984827961220923,
+      "support": 132.0
+    }
+  }
+}

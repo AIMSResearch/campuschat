@@ -1,0 +1,28 @@
+digraph G {
+  rankdir=LR;
+  graph [fontname="Arial", bgcolor="white", pad="0.3", nodesep="0.4", ranksep="0.7"];
+  node [shape=box, style="rounded,filled", fontname="Arial", fillcolor="#EAF2F8", color="#1F4E78"];
+  edge [color="#526D82"];
+  intents [label="Intent Training Data"];
+  train [label="TF-IDF + Logistic Regression
+Training Pipeline"];
+  modelreg [label="Model Registry"];
+  docs [label="Campus Policy Documents"];
+  validate [label="Validate + Quarantine"];
+  chunks [label="Corpus Snapshot + Chunks"];
+  index [label="Retrieval Index"];
+  prompt [label="Prompt Registry"];
+  gate [label="Benchmark + Release Gate"];
+  manifest [label="Deployment Manifest"];
+  api [label="FastAPI Serving"];
+  ui [label="Streamlit Chat UI"];
+  traces [label="Evidence Traces + Feedback"];
+  intents -> train -> modelreg;
+  docs -> validate -> chunks -> index;
+  modelreg -> gate;
+  index -> gate;
+  prompt -> manifest;
+  gate -> manifest -> api -> ui;
+  api -> traces;
+  traces -> train [style=dashed, label=" reviewed feedback"];
+}

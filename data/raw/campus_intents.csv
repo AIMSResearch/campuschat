@@ -1,0 +1,529 @@
+example_id,text,intent
+GREE-001,how do I say hello,greeting
+GREE-002,how do I start a conversation,greeting
+GREE-003,how do I get help from campus chat,greeting
+GREE-004,how do I ask the assistant a question,greeting
+GREE-005,how do I greet the campus assistant,greeting
+GREE-006,how do I begin chatting,greeting
+GREE-007,how do I introduce yourself,greeting
+GREE-008,where can I say hello,greeting
+GREE-009,where can I start a conversation,greeting
+GREE-010,where can I get help from campus chat,greeting
+GREE-011,where can I ask the assistant a question,greeting
+GREE-012,where can I greet the campus assistant,greeting
+GREE-013,where can I begin chatting,greeting
+GREE-014,where can I introduce yourself,greeting
+GREE-015,can you help me say hello,greeting
+GREE-016,can you help me start a conversation,greeting
+GREE-017,can you help me get help from campus chat,greeting
+GREE-018,can you help me ask the assistant a question,greeting
+GREE-019,can you help me greet the campus assistant,greeting
+GREE-020,can you help me begin chatting,greeting
+GREE-021,can you help me introduce yourself,greeting
+GREE-022,I need information about say hello,greeting
+GREE-023,I need information about start a conversation,greeting
+GREE-024,I need information about get help from campus chat,greeting
+GREE-025,I need information about ask the assistant a question,greeting
+GREE-026,I need information about greet the campus assistant,greeting
+GREE-027,I need information about begin chatting,greeting
+GREE-028,I need information about introduce yourself,greeting
+GREE-029,what should I know about say hello,greeting
+GREE-030,what should I know about start a conversation,greeting
+GREE-031,what should I know about get help from campus chat,greeting
+GREE-032,what should I know about ask the assistant a question,greeting
+GREE-033,what should I know about greet the campus assistant,greeting
+GREE-034,what should I know about begin chatting,greeting
+GREE-035,what should I know about introduce yourself,greeting
+GREE-036,please explain say hello,greeting
+GREE-037,please explain start a conversation,greeting
+GREE-038,please explain get help from campus chat,greeting
+GREE-039,please explain ask the assistant a question,greeting
+GREE-040,please explain greet the campus assistant,greeting
+GREE-041,please explain begin chatting,greeting
+GREE-042,please explain introduce yourself,greeting
+GREE-043,I have a question about say hello,greeting
+GREE-044,I have a question about start a conversation,greeting
+GREE-045,I have a question about get help from campus chat,greeting
+GREE-046,I have a question about ask the assistant a question,greeting
+GREE-047,I have a question about greet the campus assistant,greeting
+GREE-048,I have a question about begin chatting,greeting
+GREE-049,I have a question about introduce yourself,greeting
+GREE-050,tell me about say hello,greeting
+GREE-051,tell me about start a conversation,greeting
+GREE-052,tell me about get help from campus chat,greeting
+GREE-053,tell me about ask the assistant a question,greeting
+GREE-054,tell me about greet the campus assistant,greeting
+GREE-055,tell me about begin chatting,greeting
+GREE-056,tell me about introduce yourself,greeting
+REGI-001,how do I register for classes,registration
+REGI-002,how do I add a course,registration
+REGI-003,how do I drop a class,registration
+REGI-004,how do I use the waitlist,registration
+REGI-005,how do I find my registration time,registration
+REGI-006,how do I resolve a registration hold,registration
+REGI-007,how do I change course sections,registration
+REGI-008,how do I enroll when a class is full,registration
+REGI-009,where can I register for classes,registration
+REGI-010,where can I add a course,registration
+REGI-011,where can I drop a class,registration
+REGI-012,where can I use the waitlist,registration
+REGI-013,where can I find my registration time,registration
+REGI-014,where can I resolve a registration hold,registration
+REGI-015,where can I change course sections,registration
+REGI-016,where can I enroll when a class is full,registration
+REGI-017,can you help me register for classes,registration
+REGI-018,can you help me add a course,registration
+REGI-019,can you help me drop a class,registration
+REGI-020,can you help me use the waitlist,registration
+REGI-021,can you help me find my registration time,registration
+REGI-022,can you help me resolve a registration hold,registration
+REGI-023,can you help me change course sections,registration
+REGI-024,can you help me enroll when a class is full,registration
+REGI-025,I need information about register for classes,registration
+REGI-026,I need information about add a course,registration
+REGI-027,I need information about drop a class,registration
+REGI-028,I need information about use the waitlist,registration
+REGI-029,I need information about find my registration time,registration
+REGI-030,I need information about resolve a registration hold,registration
+REGI-031,I need information about change course sections,registration
+REGI-032,I need information about enroll when a class is full,registration
+REGI-033,what should I know about register for classes,registration
+REGI-034,what should I know about add a course,registration
+REGI-035,what should I know about drop a class,registration
+REGI-036,what should I know about use the waitlist,registration
+REGI-037,what should I know about find my registration time,registration
+REGI-038,what should I know about resolve a registration hold,registration
+REGI-039,what should I know about change course sections,registration
+REGI-040,what should I know about enroll when a class is full,registration
+REGI-041,please explain register for classes,registration
+REGI-042,please explain add a course,registration
+REGI-043,please explain drop a class,registration
+REGI-044,please explain use the waitlist,registration
+REGI-045,please explain find my registration time,registration
+REGI-046,please explain resolve a registration hold,registration
+REGI-047,please explain change course sections,registration
+REGI-048,please explain enroll when a class is full,registration
+REGI-049,I have a question about register for classes,registration
+REGI-050,I have a question about add a course,registration
+REGI-051,I have a question about drop a class,registration
+REGI-052,I have a question about use the waitlist,registration
+REGI-053,I have a question about find my registration time,registration
+REGI-054,I have a question about resolve a registration hold,registration
+REGI-055,I have a question about change course sections,registration
+REGI-056,I have a question about enroll when a class is full,registration
+REGI-057,tell me about register for classes,registration
+REGI-058,tell me about add a course,registration
+REGI-059,tell me about drop a class,registration
+REGI-060,tell me about use the waitlist,registration
+REGI-061,tell me about find my registration time,registration
+REGI-062,tell me about resolve a registration hold,registration
+REGI-063,tell me about change course sections,registration
+REGI-064,tell me about enroll when a class is full,registration
+DEGR-001,how do I check degree requirements,degree_requirements
+DEGR-002,how do I find credits needed to graduate,degree_requirements
+DEGR-003,how do I read my degree audit,degree_requirements
+DEGR-004,how do I understand major requirements,degree_requirements
+DEGR-005,how do I check elective requirements,degree_requirements
+DEGR-006,how do I confirm capstone requirements,degree_requirements
+DEGR-007,how do I use transfer credit for graduation,degree_requirements
+DEGR-008,how do I know if I am on track to graduate,degree_requirements
+DEGR-009,where can I check degree requirements,degree_requirements
+DEGR-010,where can I find credits needed to graduate,degree_requirements
+DEGR-011,where can I read my degree audit,degree_requirements
+DEGR-012,where can I understand major requirements,degree_requirements
+DEGR-013,where can I check elective requirements,degree_requirements
+DEGR-014,where can I confirm capstone requirements,degree_requirements
+DEGR-015,where can I use transfer credit for graduation,degree_requirements
+DEGR-016,where can I know if I am on track to graduate,degree_requirements
+DEGR-017,can you help me check degree requirements,degree_requirements
+DEGR-018,can you help me find credits needed to graduate,degree_requirements
+DEGR-019,can you help me read my degree audit,degree_requirements
+DEGR-020,can you help me understand major requirements,degree_requirements
+DEGR-021,can you help me check elective requirements,degree_requirements
+DEGR-022,can you help me confirm capstone requirements,degree_requirements
+DEGR-023,can you help me use transfer credit for graduation,degree_requirements
+DEGR-024,can you help me know if I am on track to graduate,degree_requirements
+DEGR-025,I need information about check degree requirements,degree_requirements
+DEGR-026,I need information about find credits needed to graduate,degree_requirements
+DEGR-027,I need information about read my degree audit,degree_requirements
+DEGR-028,I need information about understand major requirements,degree_requirements
+DEGR-029,I need information about check elective requirements,degree_requirements
+DEGR-030,I need information about confirm capstone requirements,degree_requirements
+DEGR-031,I need information about use transfer credit for graduation,degree_requirements
+DEGR-032,I need information about know if I am on track to graduate,degree_requirements
+DEGR-033,what should I know about check degree requirements,degree_requirements
+DEGR-034,what should I know about find credits needed to graduate,degree_requirements
+DEGR-035,what should I know about read my degree audit,degree_requirements
+DEGR-036,what should I know about understand major requirements,degree_requirements
+DEGR-037,what should I know about check elective requirements,degree_requirements
+DEGR-038,what should I know about confirm capstone requirements,degree_requirements
+DEGR-039,what should I know about use transfer credit for graduation,degree_requirements
+DEGR-040,what should I know about know if I am on track to graduate,degree_requirements
+DEGR-041,please explain check degree requirements,degree_requirements
+DEGR-042,please explain find credits needed to graduate,degree_requirements
+DEGR-043,please explain read my degree audit,degree_requirements
+DEGR-044,please explain understand major requirements,degree_requirements
+DEGR-045,please explain check elective requirements,degree_requirements
+DEGR-046,please explain confirm capstone requirements,degree_requirements
+DEGR-047,please explain use transfer credit for graduation,degree_requirements
+DEGR-048,please explain know if I am on track to graduate,degree_requirements
+DEGR-049,I have a question about check degree requirements,degree_requirements
+DEGR-050,I have a question about find credits needed to graduate,degree_requirements
+DEGR-051,I have a question about read my degree audit,degree_requirements
+DEGR-052,I have a question about understand major requirements,degree_requirements
+DEGR-053,I have a question about check elective requirements,degree_requirements
+DEGR-054,I have a question about confirm capstone requirements,degree_requirements
+DEGR-055,I have a question about use transfer credit for graduation,degree_requirements
+DEGR-056,I have a question about know if I am on track to graduate,degree_requirements
+DEGR-057,tell me about check degree requirements,degree_requirements
+DEGR-058,tell me about find credits needed to graduate,degree_requirements
+DEGR-059,tell me about read my degree audit,degree_requirements
+DEGR-060,tell me about understand major requirements,degree_requirements
+DEGR-061,tell me about check elective requirements,degree_requirements
+DEGR-062,tell me about confirm capstone requirements,degree_requirements
+DEGR-063,tell me about use transfer credit for graduation,degree_requirements
+DEGR-064,tell me about know if I am on track to graduate,degree_requirements
+FINA-001,how do I apply for financial aid,financial_aid
+FINA-002,how do I complete the FAFSA,financial_aid
+FINA-003,how do I check my financial aid award,financial_aid
+FINA-004,how do I understand aid enrollment requirements,financial_aid
+FINA-005,how do I ask about scholarships,financial_aid
+FINA-006,how do I accept a student loan,financial_aid
+FINA-007,how do I find aid disbursement dates,financial_aid
+FINA-008,how do I know how dropping a class affects aid,financial_aid
+FINA-009,where can I apply for financial aid,financial_aid
+FINA-010,where can I complete the FAFSA,financial_aid
+FINA-011,where can I check my financial aid award,financial_aid
+FINA-012,where can I understand aid enrollment requirements,financial_aid
+FINA-013,where can I ask about scholarships,financial_aid
+FINA-014,where can I accept a student loan,financial_aid
+FINA-015,where can I find aid disbursement dates,financial_aid
+FINA-016,where can I know how dropping a class affects aid,financial_aid
+FINA-017,can you help me apply for financial aid,financial_aid
+FINA-018,can you help me complete the FAFSA,financial_aid
+FINA-019,can you help me check my financial aid award,financial_aid
+FINA-020,can you help me understand aid enrollment requirements,financial_aid
+FINA-021,can you help me ask about scholarships,financial_aid
+FINA-022,can you help me accept a student loan,financial_aid
+FINA-023,can you help me find aid disbursement dates,financial_aid
+FINA-024,can you help me know how dropping a class affects aid,financial_aid
+FINA-025,I need information about apply for financial aid,financial_aid
+FINA-026,I need information about complete the FAFSA,financial_aid
+FINA-027,I need information about check my financial aid award,financial_aid
+FINA-028,I need information about understand aid enrollment requirements,financial_aid
+FINA-029,I need information about ask about scholarships,financial_aid
+FINA-030,I need information about accept a student loan,financial_aid
+FINA-031,I need information about find aid disbursement dates,financial_aid
+FINA-032,I need information about know how dropping a class affects aid,financial_aid
+FINA-033,what should I know about apply for financial aid,financial_aid
+FINA-034,what should I know about complete the FAFSA,financial_aid
+FINA-035,what should I know about check my financial aid award,financial_aid
+FINA-036,what should I know about understand aid enrollment requirements,financial_aid
+FINA-037,what should I know about ask about scholarships,financial_aid
+FINA-038,what should I know about accept a student loan,financial_aid
+FINA-039,what should I know about find aid disbursement dates,financial_aid
+FINA-040,what should I know about know how dropping a class affects aid,financial_aid
+FINA-041,please explain apply for financial aid,financial_aid
+FINA-042,please explain complete the FAFSA,financial_aid
+FINA-043,please explain check my financial aid award,financial_aid
+FINA-044,please explain understand aid enrollment requirements,financial_aid
+FINA-045,please explain ask about scholarships,financial_aid
+FINA-046,please explain accept a student loan,financial_aid
+FINA-047,please explain find aid disbursement dates,financial_aid
+FINA-048,please explain know how dropping a class affects aid,financial_aid
+FINA-049,I have a question about apply for financial aid,financial_aid
+FINA-050,I have a question about complete the FAFSA,financial_aid
+FINA-051,I have a question about check my financial aid award,financial_aid
+FINA-052,I have a question about understand aid enrollment requirements,financial_aid
+FINA-053,I have a question about ask about scholarships,financial_aid
+FINA-054,I have a question about accept a student loan,financial_aid
+FINA-055,I have a question about find aid disbursement dates,financial_aid
+FINA-056,I have a question about know how dropping a class affects aid,financial_aid
+FINA-057,tell me about apply for financial aid,financial_aid
+FINA-058,tell me about complete the FAFSA,financial_aid
+FINA-059,tell me about check my financial aid award,financial_aid
+FINA-060,tell me about understand aid enrollment requirements,financial_aid
+FINA-061,tell me about ask about scholarships,financial_aid
+FINA-062,tell me about accept a student loan,financial_aid
+FINA-063,tell me about find aid disbursement dates,financial_aid
+FINA-064,tell me about know how dropping a class affects aid,financial_aid
+ADVI-001,how do I schedule an advising appointment,advising
+ADVI-002,how do I find my academic advisor,advising
+ADVI-003,how do I plan next semester courses,advising
+ADVI-004,how do I prepare for an advising meeting,advising
+ADVI-005,how do I change my major,advising
+ADVI-006,how do I ask about prerequisites,advising
+ADVI-007,how do I review transfer credit,advising
+ADVI-008,how do I get help choosing courses,advising
+ADVI-009,where can I schedule an advising appointment,advising
+ADVI-010,where can I find my academic advisor,advising
+ADVI-011,where can I plan next semester courses,advising
+ADVI-012,where can I prepare for an advising meeting,advising
+ADVI-013,where can I change my major,advising
+ADVI-014,where can I ask about prerequisites,advising
+ADVI-015,where can I review transfer credit,advising
+ADVI-016,where can I get help choosing courses,advising
+ADVI-017,can you help me schedule an advising appointment,advising
+ADVI-018,can you help me find my academic advisor,advising
+ADVI-019,can you help me plan next semester courses,advising
+ADVI-020,can you help me prepare for an advising meeting,advising
+ADVI-021,can you help me change my major,advising
+ADVI-022,can you help me ask about prerequisites,advising
+ADVI-023,can you help me review transfer credit,advising
+ADVI-024,can you help me get help choosing courses,advising
+ADVI-025,I need information about schedule an advising appointment,advising
+ADVI-026,I need information about find my academic advisor,advising
+ADVI-027,I need information about plan next semester courses,advising
+ADVI-028,I need information about prepare for an advising meeting,advising
+ADVI-029,I need information about change my major,advising
+ADVI-030,I need information about ask about prerequisites,advising
+ADVI-031,I need information about review transfer credit,advising
+ADVI-032,I need information about get help choosing courses,advising
+ADVI-033,what should I know about schedule an advising appointment,advising
+ADVI-034,what should I know about find my academic advisor,advising
+ADVI-035,what should I know about plan next semester courses,advising
+ADVI-036,what should I know about prepare for an advising meeting,advising
+ADVI-037,what should I know about change my major,advising
+ADVI-038,what should I know about ask about prerequisites,advising
+ADVI-039,what should I know about review transfer credit,advising
+ADVI-040,what should I know about get help choosing courses,advising
+ADVI-041,please explain schedule an advising appointment,advising
+ADVI-042,please explain find my academic advisor,advising
+ADVI-043,please explain plan next semester courses,advising
+ADVI-044,please explain prepare for an advising meeting,advising
+ADVI-045,please explain change my major,advising
+ADVI-046,please explain ask about prerequisites,advising
+ADVI-047,please explain review transfer credit,advising
+ADVI-048,please explain get help choosing courses,advising
+ADVI-049,I have a question about schedule an advising appointment,advising
+ADVI-050,I have a question about find my academic advisor,advising
+ADVI-051,I have a question about plan next semester courses,advising
+ADVI-052,I have a question about prepare for an advising meeting,advising
+ADVI-053,I have a question about change my major,advising
+ADVI-054,I have a question about ask about prerequisites,advising
+ADVI-055,I have a question about review transfer credit,advising
+ADVI-056,I have a question about get help choosing courses,advising
+ADVI-057,tell me about schedule an advising appointment,advising
+ADVI-058,tell me about find my academic advisor,advising
+ADVI-059,tell me about plan next semester courses,advising
+ADVI-060,tell me about prepare for an advising meeting,advising
+ADVI-061,tell me about change my major,advising
+ADVI-062,tell me about ask about prerequisites,advising
+ADVI-063,tell me about review transfer credit,advising
+ADVI-064,tell me about get help choosing courses,advising
+CAMP-001,how do I find library hours,campus_services
+CAMP-002,how do I borrow library books,campus_services
+CAMP-003,how do I get tutoring support,campus_services
+CAMP-004,how do I contact the wellness center,campus_services
+CAMP-005,how do I find campus dining,campus_services
+CAMP-006,how do I reserve a study room,campus_services
+CAMP-007,how do I get a parking permit,campus_services
+CAMP-008,how do I find career services,campus_services
+CAMP-009,where can I find library hours,campus_services
+CAMP-010,where can I borrow library books,campus_services
+CAMP-011,where can I get tutoring support,campus_services
+CAMP-012,where can I contact the wellness center,campus_services
+CAMP-013,where can I find campus dining,campus_services
+CAMP-014,where can I reserve a study room,campus_services
+CAMP-015,where can I get a parking permit,campus_services
+CAMP-016,where can I find career services,campus_services
+CAMP-017,can you help me find library hours,campus_services
+CAMP-018,can you help me borrow library books,campus_services
+CAMP-019,can you help me get tutoring support,campus_services
+CAMP-020,can you help me contact the wellness center,campus_services
+CAMP-021,can you help me find campus dining,campus_services
+CAMP-022,can you help me reserve a study room,campus_services
+CAMP-023,can you help me get a parking permit,campus_services
+CAMP-024,can you help me find career services,campus_services
+CAMP-025,I need information about find library hours,campus_services
+CAMP-026,I need information about borrow library books,campus_services
+CAMP-027,I need information about get tutoring support,campus_services
+CAMP-028,I need information about contact the wellness center,campus_services
+CAMP-029,I need information about find campus dining,campus_services
+CAMP-030,I need information about reserve a study room,campus_services
+CAMP-031,I need information about get a parking permit,campus_services
+CAMP-032,I need information about find career services,campus_services
+CAMP-033,what should I know about find library hours,campus_services
+CAMP-034,what should I know about borrow library books,campus_services
+CAMP-035,what should I know about get tutoring support,campus_services
+CAMP-036,what should I know about contact the wellness center,campus_services
+CAMP-037,what should I know about find campus dining,campus_services
+CAMP-038,what should I know about reserve a study room,campus_services
+CAMP-039,what should I know about get a parking permit,campus_services
+CAMP-040,what should I know about find career services,campus_services
+CAMP-041,please explain find library hours,campus_services
+CAMP-042,please explain borrow library books,campus_services
+CAMP-043,please explain get tutoring support,campus_services
+CAMP-044,please explain contact the wellness center,campus_services
+CAMP-045,please explain find campus dining,campus_services
+CAMP-046,please explain reserve a study room,campus_services
+CAMP-047,please explain get a parking permit,campus_services
+CAMP-048,please explain find career services,campus_services
+CAMP-049,I have a question about find library hours,campus_services
+CAMP-050,I have a question about borrow library books,campus_services
+CAMP-051,I have a question about get tutoring support,campus_services
+CAMP-052,I have a question about contact the wellness center,campus_services
+CAMP-053,I have a question about find campus dining,campus_services
+CAMP-054,I have a question about reserve a study room,campus_services
+CAMP-055,I have a question about get a parking permit,campus_services
+CAMP-056,I have a question about find career services,campus_services
+CAMP-057,tell me about find library hours,campus_services
+CAMP-058,tell me about borrow library books,campus_services
+CAMP-059,tell me about get tutoring support,campus_services
+CAMP-060,tell me about contact the wellness center,campus_services
+CAMP-061,tell me about find campus dining,campus_services
+CAMP-062,tell me about reserve a study room,campus_services
+CAMP-063,tell me about get a parking permit,campus_services
+CAMP-064,tell me about find career services,campus_services
+TECH-001,how do I reset my password,technical_support
+TECH-002,how do I connect to campus wifi,technical_support
+TECH-003,how do I access university email,technical_support
+TECH-004,how do I fix the student portal,technical_support
+TECH-005,how do I use multi factor authentication,technical_support
+TECH-006,how do I install university software,technical_support
+TECH-007,how do I contact the IT service desk,technical_support
+TECH-008,how do I unlock my campus account,technical_support
+TECH-009,where can I reset my password,technical_support
+TECH-010,where can I connect to campus wifi,technical_support
+TECH-011,where can I access university email,technical_support
+TECH-012,where can I fix the student portal,technical_support
+TECH-013,where can I use multi factor authentication,technical_support
+TECH-014,where can I install university software,technical_support
+TECH-015,where can I contact the IT service desk,technical_support
+TECH-016,where can I unlock my campus account,technical_support
+TECH-017,can you help me reset my password,technical_support
+TECH-018,can you help me connect to campus wifi,technical_support
+TECH-019,can you help me access university email,technical_support
+TECH-020,can you help me fix the student portal,technical_support
+TECH-021,can you help me use multi factor authentication,technical_support
+TECH-022,can you help me install university software,technical_support
+TECH-023,can you help me contact the IT service desk,technical_support
+TECH-024,can you help me unlock my campus account,technical_support
+TECH-025,I need information about reset my password,technical_support
+TECH-026,I need information about connect to campus wifi,technical_support
+TECH-027,I need information about access university email,technical_support
+TECH-028,I need information about fix the student portal,technical_support
+TECH-029,I need information about use multi factor authentication,technical_support
+TECH-030,I need information about install university software,technical_support
+TECH-031,I need information about contact the IT service desk,technical_support
+TECH-032,I need information about unlock my campus account,technical_support
+TECH-033,what should I know about reset my password,technical_support
+TECH-034,what should I know about connect to campus wifi,technical_support
+TECH-035,what should I know about access university email,technical_support
+TECH-036,what should I know about fix the student portal,technical_support
+TECH-037,what should I know about use multi factor authentication,technical_support
+TECH-038,what should I know about install university software,technical_support
+TECH-039,what should I know about contact the IT service desk,technical_support
+TECH-040,what should I know about unlock my campus account,technical_support
+TECH-041,please explain reset my password,technical_support
+TECH-042,please explain connect to campus wifi,technical_support
+TECH-043,please explain access university email,technical_support
+TECH-044,please explain fix the student portal,technical_support
+TECH-045,please explain use multi factor authentication,technical_support
+TECH-046,please explain install university software,technical_support
+TECH-047,please explain contact the IT service desk,technical_support
+TECH-048,please explain unlock my campus account,technical_support
+TECH-049,I have a question about reset my password,technical_support
+TECH-050,I have a question about connect to campus wifi,technical_support
+TECH-051,I have a question about access university email,technical_support
+TECH-052,I have a question about fix the student portal,technical_support
+TECH-053,I have a question about use multi factor authentication,technical_support
+TECH-054,I have a question about install university software,technical_support
+TECH-055,I have a question about contact the IT service desk,technical_support
+TECH-056,I have a question about unlock my campus account,technical_support
+TECH-057,tell me about reset my password,technical_support
+TECH-058,tell me about connect to campus wifi,technical_support
+TECH-059,tell me about access university email,technical_support
+TECH-060,tell me about fix the student portal,technical_support
+TECH-061,tell me about use multi factor authentication,technical_support
+TECH-062,tell me about install university software,technical_support
+TECH-063,tell me about contact the IT service desk,technical_support
+TECH-064,tell me about unlock my campus account,technical_support
+EMER-001,how do I contact campus safety,emergency
+EMER-002,how do I report an emergency,emergency
+EMER-003,how do I get immediate medical help,emergency
+EMER-004,how do I call campus police,emergency
+EMER-005,how do I respond to a fire,emergency
+EMER-006,how do I get help when I feel unsafe,emergency
+EMER-007,how do I find the emergency number,emergency
+EMER-008,how do I request urgent assistance,emergency
+EMER-009,where can I contact campus safety,emergency
+EMER-010,where can I report an emergency,emergency
+EMER-011,where can I get immediate medical help,emergency
+EMER-012,where can I call campus police,emergency
+EMER-013,where can I respond to a fire,emergency
+EMER-014,where can I get help when I feel unsafe,emergency
+EMER-015,where can I find the emergency number,emergency
+EMER-016,where can I request urgent assistance,emergency
+EMER-017,can you help me contact campus safety,emergency
+EMER-018,can you help me report an emergency,emergency
+EMER-019,can you help me get immediate medical help,emergency
+EMER-020,can you help me call campus police,emergency
+EMER-021,can you help me respond to a fire,emergency
+EMER-022,can you help me get help when I feel unsafe,emergency
+EMER-023,can you help me find the emergency number,emergency
+EMER-024,can you help me request urgent assistance,emergency
+EMER-025,I need information about contact campus safety,emergency
+EMER-026,I need information about report an emergency,emergency
+EMER-027,I need information about get immediate medical help,emergency
+EMER-028,I need information about call campus police,emergency
+EMER-029,I need information about respond to a fire,emergency
+EMER-030,I need information about get help when I feel unsafe,emergency
+EMER-031,I need information about find the emergency number,emergency
+EMER-032,I need information about request urgent assistance,emergency
+EMER-033,what should I know about contact campus safety,emergency
+EMER-034,what should I know about report an emergency,emergency
+EMER-035,what should I know about get immediate medical help,emergency
+EMER-036,what should I know about call campus police,emergency
+EMER-037,what should I know about respond to a fire,emergency
+EMER-038,what should I know about get help when I feel unsafe,emergency
+EMER-039,what should I know about find the emergency number,emergency
+EMER-040,what should I know about request urgent assistance,emergency
+EMER-041,please explain contact campus safety,emergency
+EMER-042,please explain report an emergency,emergency
+EMER-043,please explain get immediate medical help,emergency
+EMER-044,please explain call campus police,emergency
+EMER-045,please explain respond to a fire,emergency
+EMER-046,please explain get help when I feel unsafe,emergency
+EMER-047,please explain find the emergency number,emergency
+EMER-048,please explain request urgent assistance,emergency
+EMER-049,I have a question about contact campus safety,emergency
+EMER-050,I have a question about report an emergency,emergency
+EMER-051,I have a question about get immediate medical help,emergency
+EMER-052,I have a question about call campus police,emergency
+EMER-053,I have a question about respond to a fire,emergency
+EMER-054,I have a question about get help when I feel unsafe,emergency
+EMER-055,I have a question about find the emergency number,emergency
+EMER-056,I have a question about request urgent assistance,emergency
+EMER-057,tell me about contact campus safety,emergency
+EMER-058,tell me about report an emergency,emergency
+EMER-059,tell me about get immediate medical help,emergency
+EMER-060,tell me about call campus police,emergency
+EMER-061,tell me about respond to a fire,emergency
+EMER-062,tell me about get help when I feel unsafe,emergency
+EMER-063,tell me about find the emergency number,emergency
+EMER-064,tell me about request urgent assistance,emergency
+GREE-057,hello,greeting
+GREE-058,hi,greeting
+GREE-059,hey,greeting
+GREE-060,good morning,greeting
+GREE-061,good evening,greeting
+GREE-062,greetings,greeting
+GREE-063,hello campus chat,greeting
+GREE-064,hi there,greeting
+EMER-065,I am in immediate danger,emergency
+EMER-066,there is a fire,emergency
+EMER-067,someone needs an ambulance,emergency
+EMER-068,I feel unsafe right now,emergency
+REGI-065,what is the add drop deadline,registration
+REGI-066,how does the course waitlist work,registration
+FINA-065,when is the FAFSA deadline,financial_aid
+FINA-066,what happens to aid if I drop a class,financial_aid
+ADVI-065,who is my advisor,advising
+ADVI-066,how do I make an advising appointment,advising
+TECH-065,I forgot my password,technical_support
+TECH-066,the portal is not working,technical_support
+DEGR-065,how many credits do I need to graduate,degree_requirements
+DEGR-066,am I on track to graduate,degree_requirements
+CAMP-065,what time does the library close,campus_services
+CAMP-066,where can I get tutoring,campus_services

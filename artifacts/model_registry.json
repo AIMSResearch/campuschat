@@ -1,0 +1,18 @@
+{
+  "model_name": "campus_intent_classifier",
+  "versions": [
+    {
+      "model_version": "intent-classifier-v1.1",
+      "training_run_id": "train-a3ae53b4a596",
+      "artifact_path": "artifacts/intent_model.joblib",
+      "vectorizer_path": "artifacts/intent_vectorizer.joblib",
+      "metrics": {
+        "accuracy": 0.9848484848484849,
+        "macro_f1": 0.985037006004748
+      },
+      "stage": "production-candidate",
+      "owner": "Campus Chat ML Team",
+      "rollback_version": "intent-classifier-v1"
+    }
+  ]
+}

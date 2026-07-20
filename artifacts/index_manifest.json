@@ -1,0 +1,8 @@
+{
+  "index_build_id": "campus-index-f40bc63c5e3d",
+  "built_at_utc": "2026-07-20T20:51:03.331305+00:00",
+  "corpus_snapshot_id": "campus-corpus-0ccec5480a20",
+  "chunking_version": "word-window-v1",
+  "retrieval_model_version": "tfidf-retriever-v1",
+  "chunk_count": 20
+}

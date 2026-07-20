@@ -1,0 +1,22 @@
+{
+  "request_id": "REQ-DEMO-001",
+  "response_id": "RESP-DEMO-001",
+  "timestamp_utc": "2026-07-20T20:51:03.356137+00:00",
+  "user_message": "When is the add/drop deadline?",
+  "predicted_intent": "registration",
+  "intent_confidence": 0.88,
+  "deployment_version": "campus-chat-2026.07-v1",
+  "intent_model_version": "intent-classifier-v1",
+  "prompt_template_version": "campus-answer-template-v1",
+  "corpus_snapshot_id": "campus-corpus-0ccec5480a20",
+  "vector_index_version": "campus-index-f40bc63c5e3d",
+  "retrieved_chunks": [
+    {
+      "chunk_id": "DOC-REG-001:2.0:c001",
+      "document_id": "DOC-REG-001",
+      "score": 0.79
+    }
+  ],
+  "final_response": "Students may add a full-semester course through day 7 and drop without transcript notation through day 14. Confirm current dates with the Registrar.",
+  "retention_class": "redacted_evidence_30_days"
+}

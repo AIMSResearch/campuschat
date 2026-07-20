@@ -1,0 +1,24 @@
+flowchart LR
+    A[Campus intent examples] --> B[Validation + split]
+    B --> C[TF-IDF feature pipeline]
+    C --> D[Intent classifier training]
+    D --> E[Model registry]
+
+    F[Campus policy documents] --> G[Metadata validation]
+    G -->|Approved| H[Corpus snapshot]
+    G -->|Failed| Q[Quarantine]
+    H --> I[Chunking]
+    I --> J[TF-IDF retrieval index]
+    J --> K[Index manifest]
+
+    E --> L[Deployment manifest]
+    K --> L
+    M[Prompt registry] --> L
+    N[Benchmark suite] --> O[Release gate]
+    E --> O
+    K --> O
+    O -->|Approved| P[FastAPI serving]
+    P --> R[Streamlit chat UI]
+    P --> S[Evidence traces]
+    R --> T[User feedback]
+    T --> U[Review before evaluation or retraining]

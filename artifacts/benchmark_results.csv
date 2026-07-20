@@ -1,0 +1,13 @@
+benchmark_id,question,expected_intent,expected_document_id,retrieved_document_ids,retrieved_chunk_ids,hit_at_1,hit_at_3
+B-001,When is the deadline to drop a full-semester course without a transcript notation?,registration,DOC-REG-001,DOC-REG-001|DOC-LIB-002|DOC-ADV-003,DOC-REG-001:2.0:c001|DOC-LIB-002:1.0:c001|DOC-ADV-003:1.0:c001,True,True
+B-002,How long do I have to accept a seat from the waitlist?,registration,DOC-REG-002,DOC-REG-002|DOC-EMG-001|DOC-IT-002,DOC-REG-002:2.1:c001|DOC-EMG-001:2.0:c001|DOC-IT-002:1.5:c001,True,True
+B-003,Where can I see whether I have a registration hold?,registration,DOC-REG-003,DOC-REG-003|DOC-LIB-002|DOC-ADV-003,DOC-REG-003:1.1:c001|DOC-LIB-002:1.0:c001|DOC-ADV-003:1.0:c001,True,True
+B-004,How do I check which degree requirements remain?,degree_requirements,DOC-DEG-002,DOC-ADV-001|DOC-DEG-001|DOC-DEG-002,DOC-ADV-001:1.2:c001|DOC-DEG-001:3.0:c001|DOC-DEG-002:1.4:c001,False,True
+B-005,What should I do before dropping a class if I receive financial aid?,financial_aid,DOC-AID-003,DOC-AID-003|DOC-AID-001|DOC-AID-002,DOC-AID-003:1.2:c001|DOC-AID-001:2.0:c001|DOC-AID-002:1.3:c001,True,True
+B-006,How can I schedule an appointment with an academic advisor?,advising,DOC-ADV-001,DOC-DEG-002|DOC-SVC-001|DOC-ADV-001,DOC-DEG-002:1.4:c001|DOC-SVC-001:1.2:c001|DOC-ADV-001:1.2:c001,False,True
+B-007,Where can I find tutoring help for a difficult class?,campus_services,DOC-SVC-001,DOC-ADV-003|DOC-SVC-001|DOC-EMG-001,DOC-ADV-003:1.0:c001|DOC-SVC-001:1.2:c001|DOC-EMG-001:2.0:c001,False,True
+B-008,How do I reset a forgotten university password?,technical_support,DOC-IT-001,DOC-IT-001|DOC-IT-003|DOC-LIB-001,DOC-IT-001:3.0:c001|DOC-IT-003:1.4:c001|DOC-LIB-001:1.0:c001,True,True
+B-009,What should I do if I am in immediate danger on campus?,emergency,DOC-EMG-001,DOC-EMG-001|DOC-SVC-002|DOC-IT-002,DOC-EMG-001:2.0:c001|DOC-SVC-002:1.0:c001|DOC-IT-002:1.5:c001,True,True
+B-010,How long can I borrow most library books?,campus_services,DOC-LIB-002,DOC-LIB-001|DOC-LIB-002|DOC-EMG-001,DOC-LIB-001:1.0:c001|DOC-LIB-002:1.0:c001|DOC-EMG-001:2.0:c001,False,True
+B-011,Can transfer credit affect which classes I should take next?,degree_requirements,DOC-DEG-003,DOC-DEG-003|DOC-ADV-001|DOC-ADV-002,DOC-DEG-003:1.0:c001|DOC-ADV-001:1.2:c001|DOC-ADV-002:1.1:c001,True,True
+B-012,What happens to aid if I become less than half time?,financial_aid,DOC-AID-001,DOC-AID-003|DOC-AID-001|DOC-AID-002,DOC-AID-003:1.2:c001|DOC-AID-001:2.0:c001|DOC-AID-002:1.3:c001,False,True

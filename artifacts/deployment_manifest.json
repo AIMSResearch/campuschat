@@ -1,0 +1,25 @@
+{
+  "application": "campus_chat",
+  "deployment_version": "campus-chat-2026.07-v1.1",
+  "release_status": "approved",
+  "intent_model_version": "intent-classifier-v1.1",
+  "training_run_id": "train-a3ae53b4a596",
+  "prompt_template_version": "campus-answer-template-v1",
+  "corpus_snapshot_id": "campus-corpus-0ccec5480a20",
+  "chunking_strategy_version": "word-window-v1",
+  "retrieval_model_version": "tfidf-retriever-v1",
+  "vector_index_version": "campus-index-f40bc63c5e3d",
+  "benchmark_version": "campus-benchmark-v1",
+  "safety_policy_version": "campus-safety-v1",
+  "tool_schema_version": "no-external-tools-v1",
+  "rollout_pattern": "local-demo-then-canary",
+  "rollback_target": "campus-chat-2026.07-v1",
+  "owner": "Campus Chat Release Owner",
+  "artifact_locations": {
+    "intent_model": "artifacts/intent_model.joblib",
+    "intent_vectorizer": "artifacts/intent_vectorizer.joblib",
+    "retrieval_matrix": "artifacts/retrieval_matrix.npz",
+    "retrieval_chunks": "artifacts/retrieval_chunks.csv",
+    "prompt_registry": "artifacts/prompt_registry.json"
+  }
+}

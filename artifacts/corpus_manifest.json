@@ -1,0 +1,148 @@
+{
+  "corpus_snapshot_id": "campus-corpus-0ccec5480a20",
+  "created_at_utc": "2026-07-20T20:51:03.276969+00:00",
+  "document_count": 20,
+  "quarantined_count": 3,
+  "approved_documents": [
+    {
+      "document_id": "DOC-REG-001",
+      "document_version": 2.0,
+      "content_hash": "8b3cf5edba4a60052821e10baf0adf3a74127d7e6e5c52d5deb356561e9467d1",
+      "owner": "Registrar",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-REG-002",
+      "document_version": 2.1,
+      "content_hash": "642aff998a76e35dd6f849ce75e77b66c8c7c3c6b4633343af066fd24720cb1d",
+      "owner": "Registrar",
+      "effective_date": "2026-01-05"
+    },
+    {
+      "document_id": "DOC-REG-003",
+      "document_version": 1.1,
+      "content_hash": "e824e50d4e6a6eef9bc7dadda0a5b24eb558c417236a5351cb29f70eb35cace1",
+      "owner": "Registrar",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-DEG-001",
+      "document_version": 3.0,
+      "content_hash": "1807b83a0cbabd76460902e58fb7d3b806b5ce95a4ff7b6d8101d6c11b1c978b",
+      "owner": "Academic Affairs",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-DEG-002",
+      "document_version": 1.4,
+      "content_hash": "973fa78a38107a75f50afaa9fa03066e4ceb8ce8783ec8bdfa5a92683bd0b87e",
+      "owner": "Academic Advising",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-DEG-003",
+      "document_version": 1.0,
+      "content_hash": "393f1018ef5e0f647903aa546aa51fbf02773cfda7d8933308e46033833b631b",
+      "owner": "Academic Affairs",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-AID-001",
+      "document_version": 2.0,
+      "content_hash": "d68137c9410692d6d4b379be1e7554e5ce436374b93d8e0247c6d5d3c6316d0c",
+      "owner": "Financial Aid Office",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-AID-002",
+      "document_version": 1.3,
+      "content_hash": "5104e1bdc9d20eb3b2743e95b79c9b25443911e5797d3421d966bf2d7c0cf23c",
+      "owner": "Financial Aid Office",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-AID-003",
+      "document_version": 1.2,
+      "content_hash": "f484b8b47c0efb5e189426ce30a37b7ba548f70d40d49a9db81f2fc88ceab4c6",
+      "owner": "Financial Aid Office",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-ADV-001",
+      "document_version": 1.2,
+      "content_hash": "376fe4206e9fcd9075441e8e9c2a1595aca7efcc094813dd4f041eaa52c6170c",
+      "owner": "Academic Advising",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-ADV-002",
+      "document_version": 1.1,
+      "content_hash": "d1105634d0c8f3ec2366efabbf77427ed70792df38a67929a4007950021a4be1",
+      "owner": "Academic Advising",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-ADV-003",
+      "document_version": 1.0,
+      "content_hash": "6f66b278200b3686326c1b0cf146ccde99fea5312634c0064dc0666c14787461",
+      "owner": "Academic Advising",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-LIB-001",
+      "document_version": 1.0,
+      "content_hash": "dc7ea04c0c1f4ff58d561fde0e9f36d525f1db1d4845ac2b8894066739edf8e1",
+      "owner": "University Library",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-LIB-002",
+      "document_version": 1.0,
+      "content_hash": "751a674e355dc227fb0e3ea6ebc5ba998b9243375f40511f603fae8f074ad7a4",
+      "owner": "University Library",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-SVC-001",
+      "document_version": 1.2,
+      "content_hash": "158f1b13eeef0b1563e405fb309cbf51730e3bc6cc4861e0ad101f2506d084ea",
+      "owner": "Academic Support Center",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-SVC-002",
+      "document_version": 1.0,
+      "content_hash": "9a8145e6c9d6d39cb25686612336c7e42c4872bee6c1d59ade4301efb9f8511c",
+      "owner": "Student Wellness Center",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "document_id": "DOC-IT-001",
+      "document_version": 3.0,
+      "content_hash": "49609c951ab38921f9aed4d013d54e91411e01356024eb6bb1dde3f37b03784c",
+      "owner": "IT Service Desk",
+      "effective_date": "2026-01-03"
+    },
+    {
+      "document_id": "DOC-IT-002",
+      "document_version": 1.5,
+      "content_hash": "a70ad96672c5f64e51fcf14d64e24238a44645233601d11530979dd34f442d66",
+      "owner": "IT Service Desk",
+      "effective_date": "2026-01-03"
+    },
+    {
+      "document_id": "DOC-IT-003",
+      "document_version": 1.4,
+      "content_hash": "0521a8979832b3a03520b300316811bbc9dc1f469fe2d884e3cd43f9d2742697",
+      "owner": "IT Service Desk",
+      "effective_date": "2026-01-03"
+    },
+    {
+      "document_id": "DOC-EMG-001",
+      "document_version": 2.0,
+      "content_hash": "17b8769b8cd30addfae43e5a4043183b5aff4f875bc5c46a6a1fd7640f24af3a",
+      "owner": "Campus Safety",
+      "effective_date": "2026-01-01"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+benchmark_id,question,expected_intent,expected_document_id
+B-001,When is the deadline to drop a full-semester course without a transcript notation?,registration,DOC-REG-001
+B-002,How long do I have to accept a seat from the waitlist?,registration,DOC-REG-002
+B-003,Where can I see whether I have a registration hold?,registration,DOC-REG-003
+B-004,How do I check which degree requirements remain?,degree_requirements,DOC-DEG-002
+B-005,What should I do before dropping a class if I receive financial aid?,financial_aid,DOC-AID-003
+B-006,How can I schedule an appointment with an academic advisor?,advising,DOC-ADV-001
+B-007,Where can I find tutoring help for a difficult class?,campus_services,DOC-SVC-001
+B-008,How do I reset a forgotten university password?,technical_support,DOC-IT-001
+B-009,What should I do if I am in immediate danger on campus?,emergency,DOC-EMG-001
+B-010,How long can I borrow most library books?,campus_services,DOC-LIB-002
+B-011,Can transfer credit affect which classes I should take next?,degree_requirements,DOC-DEG-003
+B-012,What happens to aid if I become less than half time?,financial_aid,DOC-AID-001

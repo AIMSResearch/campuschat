@@ -1,0 +1,19 @@
+name: aain7420-campus-chat
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - joblib
+  - fastapi
+  - uvicorn
+  - streamlit
+  - requests
+  - pydantic
+  - jupyter
+  - notebook
+  - ipykernel
+  - pytest

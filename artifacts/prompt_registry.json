@@ -1,0 +1,17 @@
+{
+  "prompt_name": "grounded_campus_answer",
+  "versions": [
+    {
+      "prompt_version": "campus-answer-template-v1",
+      "owner": "Campus Chat Product Team",
+      "template": "Use only the approved retrieved campus content. Give a concise answer, cite the source title and URL, and advise the user to contact the responsible office for case-specific decisions.",
+      "safety_rules": [
+        "Do not provide medical diagnosis.",
+        "For immediate danger, direct the user to emergency services.",
+        "Do not invent deadlines or degree requirements."
+      ],
+      "status": "approved",
+      "rollback_version": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "training_run_id": "train-a3ae53b4a596",
+  "created_at_utc": "2026-07-20T20:54:40.876743+00:00",
+  "training_data": "data/raw/campus_intents.csv",
+  "training_data_snapshot": "intent-data-e6504ac7a051",
+  "algorithm": "TF-IDF + LogisticRegression",
+  "vectorizer_parameters": {
+    "analyzer": "word",
+    "binary": false,
+    "decode_error": "strict",
+    "dtype": "<class 'numpy.float64'>",
+    "encoding": "utf-8",
+    "input": "content",
+    "lowercase": true,
+    "max_df": 1.0,
+    "max_features": 5000,
+    "min_df": 1,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "norm": "l2",
+    "preprocessor": null,
+    "smooth_idf": true,
+    "stop_words": "english",
+    "strip_accents": null,
+    "sublinear_tf": true,
+    "token_pattern": "(?u)\\b\\w\\w+\\b",
+    "tokenizer": null,
+    "use_idf": true,
+    "vocabulary": null
+  },
+  "model_parameters": {
+    "C": 4.0,
+    "class_weight": "balanced",
+    "dual": false,
+    "fit_intercept": true,
+    "intercept_scaling": 1,
+    "l1_ratio": 0.0,
+    "max_iter": 1500,
+    "n_jobs": null,
+    "penalty": "deprecated",
+    "random_state": 42,
+    "solver": "lbfgs",
+    "tol": 0.0001,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "random_state": 42,
+  "test_size": 0.25,
+  "metrics": {
+    "accuracy": 0.9848484848484849,
+    "macro_f1": 0.985037006004748
+  },
+  "classes": [
+    "advising",
+    "campus_services",
+    "degree_requirements",
+    "emergency",
+    "financial_aid",
+    "greeting",
+    "registration",
+    "technical_support"
+  ],
+  "code_version": "campus-chat-code-v1.1"
+}

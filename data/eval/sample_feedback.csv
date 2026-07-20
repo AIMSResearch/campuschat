@@ -1,0 +1,4 @@
+feedback_id,timestamp_utc,request_id,rating,comment,review_status,approved_use
+FB-001,2026-07-01T14:30:00Z,REQ-DEMO-001,thumbs_up,The answer pointed me to the degree audit.,reviewed,use_for_evaluation
+FB-002,2026-07-01T15:10:00Z,REQ-DEMO-002,thumbs_down,The answer did not mention the financial aid office.,pending,do_not_train_yet
+FB-003,2026-07-01T16:20:00Z,REQ-DEMO-003,correction,The library hours vary by term.,reviewed,benchmark_candidate
